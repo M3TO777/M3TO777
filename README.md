@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @M3TO777
-- 👀 I’m interested in Rusi Kaki4ki
-- 🌱 I’m currently learning hackerski raboti
+- 👀 I’m interested in studying
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me pi6i na LS
 - 😄 Pronouns: ...
